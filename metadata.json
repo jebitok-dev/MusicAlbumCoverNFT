@@ -1,0 +1,15 @@
+{
+  "name": "Music Album Cover ERC721 NFT",
+  "description": "Contract for artists to mint Album Covers",
+  "image": "https://ipfs.io/ipfs/bafybeiavu77knbkamhxccq6ykvtadh3lih6ipnfukwqs73kqdfhfgcyo3e/Ankr-Polygon.svg",
+  "attributes": [
+    {
+      "trait_type": "Developer",
+      "value": "Sharon Jebitok"
+    },
+    {
+      "trait_type": "Website",
+      "value": "https://ankr.com"
+    }
+  ]
+}
