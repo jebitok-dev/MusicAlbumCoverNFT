@@ -1,7 +1,7 @@
 {
   "name": "Music Album Cover ERC721 NFT",
   "description": "Contract for artists to mint Album Covers",
-  "image": "https://ipfs.io/ipfs/bafybeiavu77knbkamhxccq6ykvtadh3lih6ipnfukwqs73kqdfhfgcyo3e/Ankr-Polygon.svg",
+  "image": "https://ipfs.io/ipfs/bafybeigjlewsgc6qjietb4x4tsmxkmnegxpqk5unb2mrekiya2piqa2hge/invisiblecurrencykhaligraph.jpg",
   "attributes": [
     {
       "trait_type": "Developer",

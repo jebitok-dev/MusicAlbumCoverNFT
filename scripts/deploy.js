@@ -4,7 +4,7 @@ const main = async () => {
 
 // use hre object that allows us to pass the name of our contract to getContractFactory
     const nftContractFactory = await hre.ethers.getContractFactory(
-      "MAC"
+      "MusicAlbumCoverNFT"
     );
 
 // create variable to allow us to use the deploy function of getContractFactory

@@ -1,6 +1,6 @@
 # MusicAlbumCoverNFT NFT Project
 
-Building an NFT project that allows artists to mint their album covers as every new album release has a unique Album cover that might be plain photo or  could bear the title, songs on the album, names of artists features, producers and mix engineers who worked on the project among other details. ❤️
+Building an NFT project that allows artists to mint their album covers as every new album release has a unique Album cover that might be plain photo or could bear the title, songs on the album, names of artists features, producers and mix engineers who worked on the project among other details. ❤️
 
 ## Built With
 
@@ -12,13 +12,17 @@ Building an NFT project that allows artists to mint their album covers as every 
 ## Live Demo
 
 ### Deployed & Verified Contract
-- [Polygon Scan](https://mumbai.polygonscan.com/address/0xDaE1f97ac11fB1f357CD59C18473FE578bFF2d9F)
-### To interact with Contract via SafeMint 
-- Enter your Address like: 
-``0x34d9297629323795CE29190159206cDD81e6B2d2``
-- Enter media like: ``https://bafybeih4cdjf3uaxlpodpsndazdnd7zskfwgofwjzh3vwq6g7wbjomwj7i.ipfs.dweb.link/morelovelessego1.json``
+
+- [Polygon Scan](https://mumbai.polygonscan.com/address/0x0dBD8725f6Ccd620B68FC7Ff48dE10e9D14CEA03)
+
+### To interact with Contract via SafeMint
+
+- Enter your Address like:
+  `0x34d9297629323795CE29190159206cDD81e6B2d2`
+- Enter media like: `https://ipfs.io/ipfs/bafybeie7durvevhi2endcfuy4osmhwfnuv23wsd6yk53sjg6vlkz2a5eay/metadata.json`
 
 ### NFT on OpenSea Testnet
+
 [OpenSea Testnet](https://testnets.opensea.io/account?tab=collected)
 
 ## Getting Started
@@ -43,10 +47,14 @@ $ npx hardhat run scripts/deploy.js --network mumbai
 $ npx hardhat verify --network mumbai YOUR_SMARTCONTRACT_ADDRESS
 
 ```
+
 Configuring Web3.Storage
+
 <!-- - upload media/json file to the web3.storage dashboard
 - create the ``metadata.json`` file configure according to [OpenSea Metadata](https://docs.opensea.io/docs/metadata-standards)
 - copy CID of image and add to JSON file ``https://dweb.link/ipfs/YOUR_CID`` -->
+
+https://dweb.link/ipfs/bafybeiavu77knbkamhxccq6ykvtadh3lih6ipnfukwqs73kqdfhfgcyo3e
 
 ## Author
 
