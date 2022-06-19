@@ -7,23 +7,27 @@ Building an NFT project that allows artists to mint their album covers as every 
 - Solidity
 - Open Zeppelin's ERC721, and ERC721URI classes
 - Polygon Mumbai
-- IPFS & Web3.Storage(uploading image & JSON file)
+- IPFS & [Web3.Storage](https://web3.storage/account/)(uploading image & JSON file)
 
 ## Live Demo
 
 ### Deployed & Verified Contract
 
 - [Polygon Scan](https://mumbai.polygonscan.com/address/0x0dBD8725f6Ccd620B68FC7Ff48dE10e9D14CEA03)
+![screenshot](./Screenshot%20(43).png)
 
 ### To interact with Contract via SafeMint
 
 - Enter your Address like:
   `0x34d9297629323795CE29190159206cDD81e6B2d2`
 - Enter media like: `https://ipfs.io/ipfs/bafybeie7durvevhi2endcfuy4osmhwfnuv23wsd6yk53sjg6vlkz2a5eay/metadata.json`
+![screenshot](./Screenshot%20(44).png)
 
 ### NFT on OpenSea Testnet
 
 [OpenSea Testnet](https://testnets.opensea.io/account?tab=collected)
+
+![screenshot](./Screenshot%20(42).png)
 
 ## Getting Started
 
@@ -50,11 +54,11 @@ $ npx hardhat verify --network mumbai YOUR_SMARTCONTRACT_ADDRESS
 
 Configuring Web3.Storage
 
-<!-- - upload media/json file to the web3.storage dashboard
+- upload media/json file to the web3.storage dashboard
 - create the ``metadata.json`` file configure according to [OpenSea Metadata](https://docs.opensea.io/docs/metadata-standards)
-- copy CID of image and add to JSON file ``https://dweb.link/ipfs/YOUR_CID`` -->
+- copy CID of image and add to JSON file ``https://dweb.link/ipfs/YOUR_CID``
 
-https://dweb.link/ipfs/bafybeiavu77knbkamhxccq6ykvtadh3lih6ipnfukwqs73kqdfhfgcyo3e
+<!-- https://ipfs.io/ipfs/CID/file_name -->
 
 ## Author
 
